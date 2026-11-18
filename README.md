@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![Rank](https://make.fun/badge/news-image-20261117/exc-ana/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117)
+[![Reward](https://make.fun/badge/news-image-20261117/exc-ana/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+
 # Sum up 17 November's world news in one image
 
 make.fun bounty entry (program only — NOT submitted).
